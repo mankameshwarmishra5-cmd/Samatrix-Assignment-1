@@ -1,1 +1,1 @@
-# Samatrix-Assignment-1
+# Samatrix-Assignments
